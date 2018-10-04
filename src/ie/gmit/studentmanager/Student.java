@@ -14,7 +14,7 @@ public class Student {
 	// Constructor
 	public Student() {
 		this.name = "Student name";
-		this.course = "Course";
+		this.course = null;
 		this.age = 0;
 	}
 

@@ -6,6 +6,7 @@ public class Address {
 	private String county;
 	private String eircode;
 
+	//Address method 
 	public Address(String eircode) {
 		this.eircode = eircode;
 	}
